@@ -7,7 +7,6 @@
 
 #import "RCTTabBar.h"
 
-#import <React/RCTEventDispatcher.h>
 #import "RCTTabBarItem.h"
 #import <React/RCTUtils.h>
 #import <React/RCTWrapperViewController.h>

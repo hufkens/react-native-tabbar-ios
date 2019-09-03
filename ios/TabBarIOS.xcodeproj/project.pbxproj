@@ -49,6 +49,7 @@
 		B5D637B422846CFF0010FF7D /* RCTTabBarItem.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RCTTabBarItem.m; sourceTree = "<group>"; };
 		B5D637B722846D3A0010FF7D /* RCTTabBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RCTTabBar.h; sourceTree = "<group>"; };
 		B5D637B822846D3A0010FF7D /* RCTTabBar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RCTTabBar.m; sourceTree = "<group>"; };
+		B5E3B056231EADA000E5CC6C /* TabBarIOS.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = TabBarIOS.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +81,7 @@
 		58B511D21A9E6C8500147676 = {
 			isa = PBXGroup;
 			children = (
+				B5E3B056231EADA000E5CC6C /* TabBarIOS.podspec */,
 				B5D637B722846D3A0010FF7D /* RCTTabBar.h */,
 				B5D637B822846D3A0010FF7D /* RCTTabBar.m */,
 				B5D637B322846CFF0010FF7D /* RCTTabBarItem.h */,
